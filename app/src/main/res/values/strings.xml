@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">P0641_AlertDialogIyemsMult</string>
+    <string name="items">Items</string>
+    <string name="cursor">Cursor</string>
+    <integer name="number_items">10</integer>
+    <string-array name="data">
+        <item name="one">One</item>
+        <item name="two">Two</item>
+        <item name="three">Three</item>
+        <item name="four">Four</item>
+    </string-array>
+    <integer-array name="chkd">
+        <item name="0">0</item>
+        <item name="1">1</item>
+        <item name="2">1</item>
+        <item name="3">0</item>
+    </integer-array>
+    <string name="ok">OK</string>
+    <string name="position_number">Position number =</string>
+    <string name="is_checked">, is checked</string>
+    <string name="is_not_checked">, is not checked</string>
+</resources>
